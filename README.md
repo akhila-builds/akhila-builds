@@ -83,7 +83,7 @@ https://medium.com/@a.purigilla
 - 🛡️ Entry-Level Security Engineer  
 
 📩 **Email:** a.purigilla@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/akhila-purigilla-6bb2a224b  
+🔗 **LinkedIn:** https://www.linkedin.com/in/akhila-purigilla-6bb2a224b/
 
 ---
 ### 😄 Here’s some humor for you
