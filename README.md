@@ -66,48 +66,13 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="50"/>
 </p>
 
----
-
-## 🚀 Projects (Selected)
-
-### 🔍 Phishing Website Detection
-- Machine learning model using **30+ URL, HTML & network features**
-- **96.4% accuracy** on **10,000+ live URLs**
-- Reduced false positives by **15%**
-- **Tech:** Python, Scikit-learn, Pandas, BeautifulSoup
-
-### 🛡️ Network Vulnerability Assessment
-- Tested **8+ systems**, analyzed **500+ packets**
-- Designed **OWASP Top 10 remediation roadmap**
-- Improved system security posture by **40%**
-- **Tools:** Burp Suite, OWASP ZAP, Wireshark, Nmap, Kali Linux
-
-### ☁️ Cloud-Based Security Log Analyzer (SIEM)
-- Processed **25,000+ logs** in real time
-- ML-based **threat prediction**
-- Automated IP blocking & alerts
-- **Tech:** Python, Flask, AWS, Splunk
-
----
-
-## 📊 GitHub Activity
-
-Currently building my GitHub with:
-- Security-focused projects  
-- ML + cybersecurity experiments  
-- Clean, well-documented repositories  
-
-📈 **Consistency over vanity metrics.**
-
----
-
 ## ✍️ Writing
 
 I write about **cybersecurity, secure systems, and applied ML** on Medium.
 
 ▶️ https://medium.com/@YOUR_MEDIUM_USERNAME
 
----
+--
 
 ## 🤝 Hire Me
 
@@ -132,5 +97,3 @@ I write about **cybersecurity, secure systems, and applied ML** on Medium.
 > **“What you’re not changing, you’re choosing.”**
 
 ---
-
-⭐ **Building systems. Breaking them responsibly. Securing what matters — consistently.**
