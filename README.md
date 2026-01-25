@@ -11,16 +11,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/akhila-purigilla-6bb2a224b">
-    <img src="https://img.shields.io/badge/LinkedIn-Akhila%20Purigilla-blue?logo=linkedin"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="34"/>
   </a>
   <a href="mailto:a.purigilla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-a.purigilla%40gmail.com-red?logo=gmail"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="34"/>
   </a>
-  <a href="https://github.com/akhila-builds">
-    <img src="https://img.shields.io/badge/GitHub-akhilapurigilla-black?logo=github"/>
+  <a href="https://github.com/akhilapurigilla">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="34"/>
   </a>
-  <a href="https://medium.com/@a.purigilla">
-    <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium"/>
+  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" width="34"/>
   </a>
 </p>
 
