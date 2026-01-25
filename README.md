@@ -19,7 +19,7 @@
   <a href="https://github.com/akhila-builds">
     <img src="https://img.shields.io/badge/GitHub-akhilapurigilla-black?logo=github"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
+  <a href="https://medium.com/@a.purigilla">
     <img src="https://img.shields.io/badge/Medium-Blogs-black?logo=medium"/>
   </a>
 </p>
