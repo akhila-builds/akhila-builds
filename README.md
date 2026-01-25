@@ -71,7 +71,7 @@
 ## ✍️ Writing
 
 I write about **cybersecurity, secure systems, and applied ML** on Medium.
-
+https://medium.com/@a.purigilla
 ---
 
 ## 🤝 Hire Me:
