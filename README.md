@@ -16,7 +16,7 @@
   <a href="mailto:a.purigilla@gmail.com">
     <img src="https://img.shields.io/badge/Email-a.purigilla%40gmail.com-red?logo=gmail"/>
   </a>
-  <a href="https://github.com/akhilapurigilla">
+  <a href="https://github.com/akhila-builds">
     <img src="https://img.shields.io/badge/GitHub-akhilapurigilla-black?logo=github"/>
   </a>
   <a href="https://medium.com/@YOUR_MEDIUM_USERNAME">
@@ -66,15 +66,15 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="50"/>
 </p>
 
+
+---
 ## ✍️ Writing
 
 I write about **cybersecurity, secure systems, and applied ML** on Medium.
 
-▶️ https://medium.com/@YOUR_MEDIUM_USERNAME
+---
 
---
-
-## 🤝 Hire Me
+## 🤝 Hire Me:
 
 ### 🎯 Open To
 - 🔐 Cybersecurity Intern  
@@ -86,7 +86,6 @@ I write about **cybersecurity, secure systems, and applied ML** on Medium.
 🔗 **LinkedIn:** linkedin.com/in/akhila-purigilla-6bb2a224b  
 
 ---
-
 ### 😄 Here’s some humor for you
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
